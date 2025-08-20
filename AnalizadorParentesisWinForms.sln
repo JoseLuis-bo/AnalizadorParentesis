@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizadorParentesisWinForms", "AnalizadorParentesisWinForms\AnalizadorParentesisWinForms.csproj", "{770F48E7-B55E-42D3-B583-6E3FE8BAAE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770F48E7-B55E-42D3-B583-6E3FE8BAAE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F48E7-B55E-42D3-B583-6E3FE8BAAE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F48E7-B55E-42D3-B583-6E3FE8BAAE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F48E7-B55E-42D3-B583-6E3FE8BAAE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196B642B-881A-4207-BBE4-BE62FC2124D6}
+	EndGlobalSection
+EndGlobal
